@@ -12,6 +12,9 @@ Fully responsive tours website template named The Road. Created using html, css 
 
 ![Screenshot (238)](https://user-images.githubusercontent.com/93200960/196487774-30f0b87d-c630-4857-96cb-74944e4eeb31.png)
 
+## 🚀 About Me
+
+I'm a self tought frontend web developer...
 
 ## 🔗 Links
 
